@@ -1,6 +1,8 @@
 # maliszewski-skins
 MalisChefski
+
 Clicking on the images will take you to the preview, not the download link
+
 skin not on here/link broken? contact me at Chef#1871
 
 # [azerino](https://cdn.discordapp.com/attachments/981594568392843324/981595921580187648/azerino.osk)
