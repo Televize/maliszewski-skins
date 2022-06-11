@@ -9,7 +9,7 @@ skin not on here/link broken? contact me at Chef#1871 or @chefosu on twitter
 <img src="https://i.imgur.com/eaV4Gvz.jpg"/>
 
 # [bartek22830edited](https://cdn.discordapp.com/attachments/981594568392843324/981596763544776805/bartek22830edited.osk)
-<img src="https://i.imgur.com/HZHpLP4.jpg"/>
+<img src="[https://i.imgur.com/HZHpLP4.jpg](https://cdn.discordapp.com/attachments/981594568392843324/985097669452107796/tekkitomaliszewskirb.osk)"/>
 
 # [tekkitorw](https://cdn.discordapp.com/attachments/981594568392843324/981597537007964270/tekkitorw.osk)
 <img src="https://i.imgur.com/VO7Ouzf.jpg"/>
@@ -22,3 +22,6 @@ skin not on here/link broken? contact me at Chef#1871 or @chefosu on twitter
 
 # [cookiezigruby](https://cdn.discordapp.com/attachments/981594568392843324/981598685970456616/cookiezigruby.osk)
 <img src="https://i.imgur.com/FbX65oO.jpg"/>
+
+# [tekkitomaliszewskirb](https://cdn.discordapp.com/attachments/981594568392843324/985097669452107796/tekkitomaliszewskirb.osk)
+<img src="https://i.imgur.com/HNrgril.jpg"/>
