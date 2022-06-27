@@ -25,3 +25,6 @@ skin not on here/link broken? contact me at Chef#1871 or @chefosu on twitter
 
 # [tekkitomaliszewskirb](https://cdn.discordapp.com/attachments/981594568392843324/985097669452107796/tekkitomaliszewskirb.osk)
 <img src="https://i.imgur.com/HNrgril.jpg"/>
+
+# [tekkito malisz (REMAKE)](https://cdn.discordapp.com/attachments/624585192039776266/990919332714385408/tekkito_maliszewski.osk)
+<img src="https://i.imgur.com/Tjl3n4R.jpg"/>
